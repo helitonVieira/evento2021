@@ -1,0 +1,163 @@
+create or replace function fci_item_cod_barra() 
+returns trigger AS
+$body$
+begin 
+  if ((select coalesce(COUNT(cod_barra),0) from tab_item_cod_barra where cod_barra = NEW.cod_barra )=0 )THEN
+    insert into tab_item_cod_barra(cod_item,cod_barra,cod_referencia,cod_unidade,des_item) values (new.cod_item,new.cod_barra,new.cod_referencia,new.cod_unidade,new.des_item);
+  end if ;
+  RETURN NEW;
+ end;
+$body$
+language 'plpgsql' ; 
+
+---------
+ create trigger tbi_item_cod_barra
+ AFTER insert 
+on tab_item
+for each row
+execute procedure fci_item_cod_barra();
+
+----------------------------------------------------------
+
+create or replace function fcu_item_cod_barra() 
+returns trigger AS
+$body$
+begin 
+  if ((select coalesce(COUNT(cod_barra),0) from tab_item_cod_barra where cod_barra = NEW.cod_barra )=0 )THEN
+    insert into tab_item_cod_barra(cod_item,cod_barra,cod_referencia,cod_unidade,des_item) values (new.cod_item,new.cod_barra,new.cod_referencia,new.cod_unidade,new.des_item);
+  else 
+    update tab_item_cod_barra set 
+      cod_barra = new.cod_barra,
+      cod_referencia = NEW.cod_referencia,
+      cod_unidade = new.cod_unidade,
+      des_item = NEW.des_item 
+    where cod_item = new.cod_item 
+       and cod_barra = OLD.cod_barra
+       and cod_unidade = OLD.cod_unidade ;
+  end if ;
+  RETURN OLD;
+ end;
+$body$
+language 'plpgsql' ; 
+-----------------------------
+create trigger tgu_item_cod_barra
+ AFTER UPDATE 
+on tab_item
+for each row
+execute procedure fcu_item_cod_barra();
+------------------------------------------------------------------------
+
+create or replace function fcd_item_cod_barra() 
+returns trigger AS
+$body$
+begin 
+  delete from tab_item_cod_barra 
+    where cod_item = new.cod_item;
+  
+  RETURN OLD;
+ end;
+$body$
+language 'plpgsql' ; 
+
+-----------------------------------------------
+create trigger tgd_item_cod_barra
+ before delete 
+on tab_item
+for each row
+execute procedure fcd_item_cod_barra();
+------------------------------------------------
+
+create or replace function fci_resumo_venda_item() 
+returns trigger AS
+$body$
+begin 
+
+    insert into tab_movimento_estoque(seq_movimento        ,     
+                                      cod_empresa          ,
+                                      cod_item             ,
+                                      cod_almoxarifado     ,
+                                      dta_movimento        ,
+                                      cod_tipo_movimento   ,
+                                      qtd_movimento_estoque,
+                                      val_movimento_estoque,
+                                      seq_resumo_venda,
+                                      seq_fechamento ,
+                                      seq_inventario)         
+    
+            values ((select coalesce(max(seq_movimento),0)+1 from tab_movimento_estoque),
+                    (select a.cod_empresa from tab_pdv a 
+                         join tab_fechamento_caixa_pdv c on (a.cod_pdv = c.cod_pdv)
+                         where c.seq_fechamento = NEW.seq_fechamento),
+                         new.cod_item,
+                         1,
+                         (select a.dta_fechamento from tab_fechamento_caixa_pdv a 
+                        	 where a.seq_fechamento = NEW.seq_fechamento),
+                         10,
+                         NEW.qtd_item,
+                         COALESCE((select case when coalesce(mm.qtd_movimento_estoque,0) >0 
+                                      then mm.val_movimento_estoque/mm.qtd_movimento_estoque 
+                                      else 0 end
+                            from tab_movimento_estoque mm 
+                            where mm.cod_item = new.cod_item
+                              and mm.seq_movimento =  
+                    						(select coalesce(max(m.seq_movimento),0) 
+						                        from tab_movimento_estoque m
+                                                join tab_tipo_movimento t on (m.cod_tipo_movimento = t.cod_tipo_movimento)
+                        						where t.ind_entrada = 'E' 
+						                        and m.cod_item = new.cod_item )),0)* new.qtd_item,
+                      new.seq_venda,
+                      NEW.seq_fechamento ,
+                      null);
+                                                
+  RETURN NEW;
+ end;
+$body$
+language 'plpgsql' ; 
+-----------------------------------------------------------
+create trigger tbi_resumo_venda_item
+ AFTER insert 
+on tab_resumo_venda_item
+for each row
+execute procedure fci_resumo_venda_item();
+----------------------------------------------------------
+
+create or replace function fci_inventario_rapido() 
+returns trigger AS
+$body$
+begin 
+    insert into tab_movimento_estoque(seq_movimento        ,     
+                                      cod_empresa          ,
+                                      cod_item             ,
+                                      cod_almoxarifado     ,
+                                      dta_movimento        ,
+                                      cod_tipo_movimento   ,
+                                      qtd_movimento_estoque,
+                                      val_movimento_estoque,
+                                      seq_resumo_venda,
+                                      seq_fechamento,
+                                      seq_inventario )         
+    
+            values ((select coalesce(max(seq_movimento),0)+1 from tab_movimento_estoque),
+                     NEW.cod_empresa,
+                     new.cod_item,
+                     new.cod_almoxarifado,
+                     NEW.dta_inventario,
+                     new.cod_tipo_movimento,
+                     NEW.qtd_item,
+                     NEW.val_custo_total,
+                     null,
+                     null,
+                     NEW.seq_inventario );
+                                                
+  RETURN NEW;
+ end;
+$body$
+language 'plpgsql' ; 
+---------------------------------------------------------
+
+create trigger tbi_inventario_rapido
+ AFTER insert 
+on tab_inventario_rapido
+for each row
+execute procedure fci_inventario_rapido();
+-----------------------------------------------------

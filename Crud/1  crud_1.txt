@@ -1,0 +1,242 @@
+ALTER USER postgres WITH ENCRYPTED PASSWORD '851213'
+--
+create table tab_licencia 
+(des_chave varchar(20),
+primary key (des_chave));
+
+INSERT INTO tab_licencia VALUES('HE1660-LI0083-TO1328');
+
+create table tab_usuario
+(cod_usuario integer  not null, 
+ nom_usuario varchar(50),
+ des_senha varchar(50) ,
+ des_permissao_usuario varchar(50),
+ ind_ativo char(1),
+ primary key (cod_usuario));
+
+insert into tab_usuario values(1, 'gugu','123','MESTRE','S');
+
+create table tab_parametro_sistema(
+             val_dimFontProduto integer,
+	     val_dimFontIngresso integer);
+
+Insert Into tab_parametro_sistema values(0,0);
+
+create table tab_empresa
+(cod_empresa integer  not null, 
+ nom_fantasia varchar(50),
+ num_cnpj varchar(50) ,
+ num_ie varchar(50),
+ ind_ativo char(1),
+ des_logradouro varchar(60),
+ nom_bairro varchar(60),
+ des_complemento varchar(60),
+ cod_cidade integer,
+ primary key (cod_empresa));
+ 
+ insert into tab_empresa values(1,'BOLOLO', '','','S','','','',1);
+
+create table tab_almoxarifado	 (
+    cod_almoxarifado  integer not null,
+    des_almoxarifado  varchar(60) not null,
+	primary key (cod_almoxarifado));
+
+insert into tab_almoxarifado VALUES(1,'LOJA');    
+
+create table tab_secao_item	 (
+    cod_secao  integer not null,
+    des_secao  varchar(60) not null,
+	cod_almoxarifado integer not null,
+	primary key (cod_secao));
+
+ALTER TABLE tab_secao_item ADD CONSTRAINT REF_TAB_SECAO_COD_ALMOXARIFADO FOREIGN KEY (COD_ALMOXARIFADO) REFERENCES TAB_ALMOXARIFADO (COD_ALMOXARIFADO);
+insert into tab_secao_item VALUES(1,'BEBIDAS',1); 
+insert into tab_secao_item VALUES(2,'COMIDA',1);    
+
+create table tab_categoria_item	 (
+    cod_categoria  integer not null,
+    des_categoria  varchar(60) not null,
+	cod_secao integer not null,
+	primary key (cod_categoria));
+
+ALTER TABLE TAB_CATEGORIA_ITEM ADD CONSTRAINT REF_TAB_CATEGORIA_COD_SECAO FOREIGN KEY (COD_SECAO) REFERENCES TAB_SECAO_ITEM (COD_SECAO);
+insert into tab_categoria_item VALUES(1,'CERVEJA',1); 
+insert into tab_categoria_item VALUES(2,'REFRIGERANTE',1); 
+insert into tab_categoria_item VALUES(3,'DOSE',1); 
+insert into tab_categoria_item VALUES(4,'PORCAO',2);    
+
+create table tab_subcategoria_item	 (
+    cod_subcategoria  integer not null,
+    des_subcategoria  varchar(60) not null,
+	cod_categoria integer not null,
+	primary key (cod_subcategoria));
+
+ALTER TABLE TAB_SUBCATEGORIA_ITEM ADD CONSTRAINT REF_TAB_SUBCATEGORIA_COD_CATEGORIA FOREIGN KEY (COD_CATEGORIA) REFERENCES TAB_CATEGORIA_ITEM (COD_CATEGORIA);
+ 
+insert into tab_subcategoria_item VALUES(1,'CERVEJA',1); 
+insert into tab_subcategoria_item VALUES(2,'REFRIGERANTE',2); 
+insert into tab_subcategoria_item VALUES(3,'DOSE',3); 
+insert into tab_subcategoria_item VALUES(4,'PORCAO',4);    
+
+create table tab_unidade (
+ cod_unidade integer not null,
+ des_unidade varchar(60),
+ sgl_unidade varchar(5),
+ num_fator_conversao double precision,
+ primary key (cod_unidade));
+ 
+INSERT INTO TAB_UNIDADE (COD_UNIDADE, DES_UNIDADE, SGL_UNIDADE, NUM_FATOR_CONVERSAO) VALUES (1, 'UNIDADE', 'UN', 1);
+INSERT INTO TAB_UNIDADE (COD_UNIDADE, DES_UNIDADE, SGL_UNIDADE, NUM_FATOR_CONVERSAO) VALUES (2, 'LITRO', 'LT', 1);
+INSERT INTO TAB_UNIDADE (COD_UNIDADE, DES_UNIDADE, SGL_UNIDADE, NUM_FATOR_CONVERSAO) VALUES (3, 'BALDE', 'BD', 1);
+INSERT INTO TAB_UNIDADE (COD_UNIDADE, DES_UNIDADE, SGL_UNIDADE, NUM_FATOR_CONVERSAO) VALUES (4, 'CAIXA', 'CX', 1);
+
+create table tab_marca(
+cod_marca integer not null , 
+des_marca varchar(60) not null,		
+primary key (cod_marca)); 
+
+
+create table tab_item
+(cod_item integer not null, 
+ des_item varchar(50) not null,
+ val_preco_venda double precision,
+ val_custo double precision,
+ ind_ativo char(1),
+ cod_evento integer, 
+ primary key (cod_item));
+ 
+insert into tab_item values(1,'BRAHMA LATA 350 ML',5,1.8,'S',0);
+insert into tab_item values(2,'SKOL LATA 350 ML',5,1.8,'S',0);
+insert into tab_item values(3,'CRYSTAL LATA 350 ML',4,1.6,'S',	0);
+insert into tab_item values(4,'EISENBAHN LATA', 8,2.66,'S',0);
+insert into tab_item values(5,'REFRIGERANTE LATA', 4,	1.8,'S',	0);
+insert into tab_item values(6,'ÁGUA', 4,6,'S',0);
+insert into tab_item values(7,'SUCO LATA',5,1.8,'S',0);
+insert into tab_item values(8,'SUCO 1 LITRO',	10,4,'S',0);
+insert into tab_item values(9,'ÁGUA DE COCO 1 LITRO',	15,5,'S',0);
+insert into tab_item values(10,'ICE SYN',5,2,'S',0);
+insert into tab_item values(11,'RED BULL',15,5,'S',0);
+insert into tab_item values(12,'VODKA DOSE',10,1,'S',0);
+insert into tab_item values(13,'WHISKY DOSE',15,1,'S',0);
+insert into tab_item values(14,'BLUE DOSE',6,3,'S',0);
+insert into tab_item values(15,'BLUE GARRAFA',	50,10,'S',	0);
+insert into tab_item values(16,'VODKA GARRAFA',80,20,'S',0);
+insert into tab_item values(17,'VODKA COM SUCO',100,24,'S',0);
+insert into tab_item values(18,'WHISKY GARRAFA',190,50,'S',0);
+insert into tab_item values(19,'WHISKY + 3 ENERGETICOS',200,65,'S',0);
+insert into tab_item values(20,'DEVASSA LATA',	6,2.3,'S',0);
+insert into tab_item values(21,'PORCAO BATATA',15,5,'S',0);
+insert into tab_item values(22,'PORCAO FRANGO',22,5,'S',0);
+insert into tab_item values(23,'BALDE SKOL',50,10,'S',	0);
+insert into tab_item values(24,'BALDE BRAHMA',	50,10,'S',0);
+insert into tab_item values(25,'BALDE CRYSTAL',40,10,'S',0);
+insert into tab_item values(26,'BALDE DEVASSA',60,10,'S',0);
+
+create table tab_item_old
+(cod_item integer, 
+ des_item varchar(50) not null,
+ val_preco_venda double precision,
+ val_custo double precision,
+ ind_ativo char(1),
+ cod_evento integer);
+
+
+ insert into tab_item_old (cod_item , 
+		des_item, 
+		val_preco_venda,
+		val_custo ,
+		ind_ativo ,
+		cod_evento )
+ select cod_item , 
+		des_item, 
+		val_preco_venda,
+		val_custo ,
+		ind_ativo ,
+		cod_evento from tab_item ; 
+
+		
+drop table tab_item;
+
+
+create table tab_item
+(cod_item integer not null, 
+ des_item varchar(50) not null,
+ cod_subcategoria integer not null,
+ cod_barra varchar(30),
+ cod_referencia varchar(30),
+ cod_unidade integer,
+ ind_tipo char(1),
+ qtd_estoque_minimo double precision,
+ qtd_estoque_maximo double precision,
+ cod_marca integer,
+ ind_ativo char(1) ,
+ primary key (cod_item));
+
+ insert into tab_item  select a.cod_item ,a.des_item ,1, cod_item,cod_item,1,'I',0,10000,null,'S' from tab_item_old a ;
+ALTER TABLE TAB_ITEM ADD CONSTRAINT REF_TAB_ITEM_SUBCATEGORIA FOREIGN KEY (COD_SUBCATEGORIA) REFERENCES TAB_SUBCATEGORIA_ITEM (COD_SUBCATEGORIA);
+ALTER TABLE TAB_ITEM ADD CONSTRAINT REF_TAB_ITEM_UNIDADE FOREIGN KEY (COD_UNIDADE) REFERENCES TAB_UNIDADE (COD_UNIDADE);
+ALTER TABLE TAB_ITEM ADD CONSTRAINT REF_TAB_ITEM_MARCA FOREIGN KEY (COD_MARCA) REFERENCES TAB_MARCA (COD_MARCA);
+ drop table tab_item_old;
+
+create table tab_evento
+(cod_evento integer  not null, 
+ nom_evento varchar(50), 
+ dta_evento date ,
+ ind_aberto char(1),
+ primary key (cod_evento));
+
+create table tab_venda
+( seq_venda integer  not null,
+cod_evento integer not null,
+cod_item integer not null,
+qtd_item double precision,
+val_total_item double precision,
+val_total_custo_item double precision,
+ind_tipo CHAR(1),
+primary key (seq_venda)) ;
+
+alter table tab_venda add constraint fk_venda_evento foreign key (cod_evento) references tab_evento(cod_evento);
+alter table tab_venda add constraint fk_venda_item foreign key (cod_item) references tab_item(cod_item);
+
+
+create table tab_estado(
+cod_estado integer not null,
+nom_estado varchar(60) not null,
+sgl_estado varchar(2) not null,
+nom_pais varchar(60) not null ,
+primary key (cod_estado));
+
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (4, 'ACRE', 'AC', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (5, 'ALAGOAS', 'AL', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (6, 'AMAPA', 'AP', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (7, 'AMAZONAS', 'AM', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (8, 'BAHIA', 'BA', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (9, 'CEARA', 'CE', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (10, 'DISTRITO FEDERAL', 'DF', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (3, 'ESPIRITO SANTO', 'ES', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (99, 'EXTERIOR', 'EX', 'OUTRO');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (11, 'GOIAS', 'GO', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (12, 'MARANHAO', 'MA', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (13, 'MATO GRASSO', 'MT', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (14, 'MATO GROSSO DO SUL', 'MS', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (15, 'MINAS GERAIS', 'MG', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (2, 'PARA', 'PA', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (16, 'PARAIBA', 'PB', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (17, 'PARANA', 'PR', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (18, 'PERNAMBUCO', 'PE', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (19, 'PIAUI', 'PI', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (20, 'RIO DE JANEIRO', 'RJ', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (21, 'RIO GRANDE DO NORTE', 'RN', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (22, 'RIO GRANDE DO SUL', 'RS', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (23, 'RONDONIA', 'RO', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (24, 'RORAIMA', 'RR', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (25, 'SANTA CATARINA', 'SC', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (1, 'SAO PAULO', 'SP', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (26, 'SERGIPE', 'SE', 'BRASIL');
+INSERT INTO TAB_ESTADO (COD_ESTADO, NOM_ESTADO, SGL_ESTADO, NOM_PAIS) VALUES (27, 'TOCANTINS', 'TO', 'BRASIL');
+
+create table tab_cidade (
+cod_cidade integer not null,
+nom_cidade varchar(60) not null,
+cod_estado integer not null,
+primary key (cod_cidade));

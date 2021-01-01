@@ -1,0 +1,106 @@
+D:\source\repos\FrmEvento\EventoSystem\bin\Debug\EventoSystem.dll
+D:\source\repos\FrmEvento\EventoSystem\bin\Debug\EventoSystem.pdb
+D:\source\repos\FrmEvento\EventoSystem\bin\Debug\EventoSystem.xml
+D:\source\repos\FrmEvento\EventoSystem\obj\Debug\EventoSystem.Resources.resources
+D:\source\repos\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbproj.GenerateResource.cache
+D:\source\repos\FrmEvento\EventoSystem\obj\Debug\EventoSystem.dll
+D:\source\repos\FrmEvento\EventoSystem\obj\Debug\EventoSystem.xml
+D:\source\repos\FrmEvento\EventoSystem\obj\Debug\EventoSystem.pdb
+D:\source\repos\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbprojAssemblyReference.cache
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\EventoSystem.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\EventoSystem.pdb
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\EventoSystem.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbprojAssemblyReference.cache
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.Resources.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbproj.GenerateResource.cache
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.pdb
+D:\source\trunk\FrmEvento\EventoSystem\bin\Debug\EventoSystem.dll
+D:\source\trunk\FrmEvento\EventoSystem\bin\Debug\EventoSystem.pdb
+D:\source\trunk\FrmEvento\EventoSystem\bin\Debug\EventoSystem.xml
+D:\source\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbprojAssemblyReference.cache
+D:\source\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.Resources.resources
+D:\source\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbproj.GenerateResource.cache
+D:\source\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.dll
+D:\source\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.xml
+D:\source\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.pdb
+D:\source\Projeto1\FrmEvento\EventoSystem\bin\Debug\EventoSystem.dll
+D:\source\Projeto1\FrmEvento\EventoSystem\bin\Debug\EventoSystem.pdb
+D:\source\Projeto1\FrmEvento\EventoSystem\bin\Debug\EventoSystem.xml
+D:\source\Projeto1\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbprojAssemblyReference.cache
+D:\source\Projeto1\FrmEvento\EventoSystem\obj\Debug\EventoSystem.Resources.resources
+D:\source\Projeto1\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbproj.GenerateResource.cache
+D:\source\Projeto1\FrmEvento\EventoSystem\obj\Debug\EventoSystem.dll
+D:\source\Projeto1\FrmEvento\EventoSystem\obj\Debug\EventoSystem.xml
+D:\source\Projeto1\FrmEvento\EventoSystem\obj\Debug\EventoSystem.pdb
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\EventoSystem.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\EventoSystem.pdb
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\EventoSystem.xml
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\EnvDTE.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\stdole.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.Resources.resources
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbproj.GenerateResource.cache
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbproj.CopyComplete
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.xml
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.pdb
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Npgsql.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\System.Memory.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Npgsql.xml
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbprojAssemblyReference.cache

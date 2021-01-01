@@ -1,0 +1,1204 @@
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe.config
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.pdb
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.xml
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.Shared.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\FlashControlV71.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ShockwaveFlashObjects.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\EnvDTE.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\stdole.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\EnvDTE80.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Tasks.Core.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj80.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.MSXML.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Utilities.Core.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Framework.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj2.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbprojAssemblyReference.cache
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe.config
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPdv1.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPesquisa.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolherEvento.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEvento.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmImprimirIngressos.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmInventarioRapido.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLicencia.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLogin.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmParametroSistema.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPessoa.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPrincipal.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelListaItens.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.Resources.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.Form1.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.GenerateResource.cache
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.CopyComplete
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.xml
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.pdb
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFuncaoFuncionario.resources
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.pdb
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.xml
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCadPadrao.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmAlmoxarifado.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSecao.resources
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.dll
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.pdb
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.xml
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.pdb
+D:\source\repos\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.xml
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCategoria.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSubCategoria.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPDV2.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmItem.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmUnidade.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmMarca.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolhaEmpresa.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDespesas.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEspecieCaixa.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPagamentoRecebimento.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmReceita.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoDespesa.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDataFinal.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmBanco.resources
+D:\source\repos\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoParcelamento.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbprojAssemblyReference.cache
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe.config
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmBanco.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDataFinal.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDespesas.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolhaEmpresa.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEspecieCaixa.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmMarca.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmItem.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPagamentoRecebimento.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPDV2.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmAlmoxarifado.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCategoria.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCadPadrao.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFuncaoFuncionario.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPdv1.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPesquisa.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolherEvento.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEvento.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmImprimirIngressos.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmInventarioRapido.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLicencia.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLogin.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmParametroSistema.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPessoa.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPrincipal.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmReceita.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelListaItens.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSecao.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSubCategoria.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoDespesa.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoParcelamento.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmUnidade.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.Resources.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelItem.resources
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.GenerateResource.cache
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.pdb
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe.config
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.pdb
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\ShockwaveFlashObjects.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\stdole.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.pdb
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.pdb
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.pdb
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.CopyComplete
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\RdlCompile.cache
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\obj\x86\Debug\RdlCompile.compiled
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\netstandard.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.AppContext.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.Specialized.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Console.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Data.Common.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Compression.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Pipes.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Expressions.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Parallel.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Queryable.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Http.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.NameResolution.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Ping.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Primitives.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Requests.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Security.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Sockets.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebSockets.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.ObjectModel.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.Reader.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.Writer.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Handles.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Claims.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Principal.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.SecureString.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encoding.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Thread.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Timer.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XDocument.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XPath.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Buffers.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Memory.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Json.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.ValueTuple.dll
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.pdb
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Buffers.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Memory.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encodings.Web.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Json.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\source\ProjetoVSystem\FrmEvento\WindowsApp1\bin\x86\Debug\System.ValueTuple.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe.config
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.pdb
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\netstandard.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.AppContext.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.Specialized.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Console.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Data.Common.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Compression.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Pipes.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Expressions.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Parallel.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Queryable.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Http.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.NameResolution.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Ping.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Primitives.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Requests.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Security.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Sockets.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebSockets.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ObjectModel.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.Reader.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.Writer.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Handles.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Claims.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Principal.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.SecureString.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encoding.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Thread.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Timer.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XDocument.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XPath.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Buffers.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Memory.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Json.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ValueTuple.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.pdb
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.pdb
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.pdb
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.pdb
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Buffers.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Memory.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encodings.Web.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Json.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ValueTuple.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbprojAssemblyReference.cache
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe.config
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmBanco.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDataFinal.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDespesas.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolhaEmpresa.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEspecieCaixa.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmMarca.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmItem.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPagamentoRecebimento.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPDV2.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmAlmoxarifado.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCategoria.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCadPadrao.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFuncaoFuncionario.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPdv1.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPesquisa.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolherEvento.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEvento.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmImprimirIngressos.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmInventarioRapido.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLicencia.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLogin.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmParametroSistema.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPessoa.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPrincipal.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmReceita.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelListaItens.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSecao.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSubCategoria.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoDespesa.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoParcelamento.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmUnidade.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.Resources.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelItem.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.GenerateResource.cache
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\RdlCompile.cache
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\RdlCompile.compiled
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.CopyComplete
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.pdb
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelSubCategoria.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EnvDTE.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Framework.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\stdole.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EnvDTE80.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Tasks.Core.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj80.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.MSXML.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Utilities.Core.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj2.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCidade.resources
+D:\SVN\pc-alexandre servidor\projeto1\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmAgendaServico.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbprojAssemblyReference.cache
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe.config
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmAgendaServico.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmBanco.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCidade.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDataFinal.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDespesas.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolhaEmpresa.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEspecieCaixa.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmMarca.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmItem.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPagamentoRecebimento.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPDV2.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmAlmoxarifado.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCategoria.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCadPadrao.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFuncaoFuncionario.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPdv1.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPesquisa.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolherEvento.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEvento.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmImprimirIngressos.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmInventarioRapido.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLicencia.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLogin.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmParametroSistema.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPessoa.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPrincipal.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmReceita.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelListaItens.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSecao.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSubCategoria.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoDespesa.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoParcelamento.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmUnidade.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.Resources.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelComissaoServ.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFiltroRelComissaoAgendaServ.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFiltroRelDespesa.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelDespesa.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelGerencial.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelIngressosImpresso.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelItem.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.GenerateResource.cache
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\RdlCompile.cache
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\RdlCompile.compiled
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe.config
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.pdb
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\netstandard.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.AppContext.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.Specialized.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Console.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Data.Common.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Compression.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Pipes.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Expressions.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Parallel.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Queryable.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Http.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.NameResolution.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Ping.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Primitives.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Requests.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Security.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Sockets.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebSockets.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ObjectModel.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.Reader.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.Writer.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Handles.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Claims.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Principal.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.SecureString.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encoding.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Thread.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Timer.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XDocument.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XPath.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Buffers.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Memory.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Json.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ValueTuple.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EnvDTE.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Framework.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\stdole.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EnvDTE80.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Tasks.Core.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj80.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.MSXML.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Utilities.Core.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj2.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.pdb
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.dll.config
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.pdb
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.pdb
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.dll.config
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.pdb
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Buffers.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Memory.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encodings.Web.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Json.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.ValueTuple.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.CopyComplete
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.xml
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.pdb
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelEntradaSaidaEstoque.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelVendaSubCategoria.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFiltroEntradaSaidaEstoque.resources
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Nancy.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Newtonsoft.Json.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Http.Formatting.dll
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Nancy.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\Newtonsoft.Json.xml
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Http.Formatting.xml
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmMensagemWhatssap.resources
+D:\source\trunk\FrmEvento\WindowsApp1\bin\x86\Debug\WhatsAppApi.dll
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmGrupoUsuario.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmUsuario.resources
+D:\source\trunk\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmControleAcesso.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe.config
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.pdb
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\netstandard.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.AppContext.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Collections.Specialized.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Console.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Data.Common.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Compression.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.Pipes.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Expressions.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Parallel.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Linq.Queryable.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Http.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.NameResolution.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Ping.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Primitives.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Requests.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Security.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Sockets.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.WebSockets.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.ObjectModel.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.Reader.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Resources.Writer.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Handles.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Claims.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.Principal.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Security.SecureString.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encoding.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Thread.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Timer.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XDocument.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XPath.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Nancy.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Newtonsoft.Json.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Buffers.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Memory.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Http.Formatting.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Json.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.ValueTuple.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\WhatsAppApi.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\EnvDTE.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Framework.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\stdole.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\EnvDTE80.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Tasks.Core.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj80.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.MSXML.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Build.Utilities.Core.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\VSLangProj2.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.pdb
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Controles.dll.config
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.pdb
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\EventoSystem.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.pdb
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\PetSystem.dll.config
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Nancy.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Newtonsoft.Json.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.pdb
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Npgsql.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Buffers.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Memory.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Net.Http.Formatting.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Encodings.Web.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Text.Json.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\System.ValueTuple.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbprojAssemblyReference.cache
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe.config
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmAgendaServico.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmBanco.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCidade.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmControleAcesso.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDataFinal.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmDespesas.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolhaEmpresa.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEspecieCaixa.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmGrupoUsuario.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmMarca.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmItem.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmMensagemWhatssap.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPagamentoRecebimento.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPDV2.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmAlmoxarifado.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCategoria.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmCadPadrao.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFuncaoFuncionario.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPdv1.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPesquisa.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEscolherEvento.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmEvento.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmImprimirIngressos.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmInventarioRapido.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLicencia.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmLogin.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmParametroSistema.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPessoa.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPrincipal.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmReceita.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelListaItens.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSecao.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmSubCategoria.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoDespesa.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoParcelamento.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmUnidade.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmUsuario.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.Resources.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFiltroVendaPorCliente.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFiltroVendaSubCategoria.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFiltroEntradaSaidaEstoque.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelEntradaSaidaEstoque.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelComissaoServ.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFiltroRelComissaoAgendaServ.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFiltroRelDespesa.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelDespesa.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelGerencial.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelIngressosImpresso.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelItem.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelVendaPorCliente.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmRelVendaSubCategoria.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.GenerateResource.cache
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\RdlCompile.cache
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\RdlCompile.compiled
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\Evento.vbproj.CopyComplete
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.pdb
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.exe.manifest
+D:\source\Projeto1\FrmEvento\WindowsApp1\bin\x86\Debug\WindowsApp1.application
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.TrustInfo.xml
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.exe.manifest
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.application
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoReceita.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmFechamentoCaixaPdv.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmPdv.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmAberturaCaixa.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTituloReceber.resources
+D:\source\Projeto1\FrmEvento\WindowsApp1\obj\x86\Debug\WindowsApp1.FrmTipoCobranca.resources

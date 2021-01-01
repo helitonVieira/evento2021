@@ -1,0 +1,431 @@
+--criando relatorio
+--www.youtube.com/watch?v=UlsqHWGWJYs
+
+--acesso ao banco de dados 
+--usuario = sysdba  postgres
+--senha = 851213
+
+
+
+CREATE TABLE TAB_PESSOA (
+    COD_PESSOA                 INTEGER not null, 
+    NOM_PESSOA                 VARCHAR(60) NOT NULL,
+    NOM_FANTASIA               VARCHAR(60),
+    NUM_CNPJ_CPF               VARCHAR(18),
+    NUM_IE_RG                  VARCHAR(20),
+    DTA_NASCIMENTO             DATE,
+    DES_LOGRADOURO             VARCHAR(100),
+    DES_COMPLEMENTO            VARCHAR(50),
+    COD_CIDADE                 INTEGER NOT NULL,
+    NOM_BAIRRO                 VARCHAR(60),
+    NUM_CEP                    VARCHAR(10),
+    NUM_TELEFONE_1             VARCHAR(15),
+    NUM_TELEFONE_2             VARCHAR(15),
+    NUM_TELEFONE_3             VARCHAR(15),
+    NOM_CONTATO                VARCHAR(60),
+    DES_OBSERVACAO             VARCHAR(100),
+    DTA_CADASTRO               DATE NOT NULL,
+    IND_CLIENTE                CHAR(1) NOT NULL,
+    IND_FORNECEDOR             CHAR(1) NOT NULL,
+    IND_FUNCIONARIO            CHAR(1) NOT NULL,
+    IND_ATIVO                  CHAR(1) NOT NULL ,  
+    DES_EMAIL                VARCHAR(100),
+    PRIMARY KEY (COD_PESSOA));
+alter table tab_pessoa add constraint fk_pessoa_cidade foreign key (cod_cidade) references tab_cidade(cod_cidade);
+alter table tab_pessoa add constraint chk_pessoa_cliente check (ind_cliente in ('S','N'));
+alter table tab_pessoa add constraint chk_pessoa_ind_fornecedor check (ind_fornecedor in ('S','N'));
+alter table tab_pessoa add constraint chk_pessoa_ind_funcionario check (ind_funcionario in ('S','N'));
+alter table tab_pessoa add constraint chk_pessoa_ind_ativo check (ind_ativo in ('S','N'));
+
+insert into tab_pessoa values (1,'CONSUMIDOR PADRAO','CONSUMIDOR PADRAO','','','02/05/1983','','',1,'','','','','','','','02/05/1983','S','N','N','S','');
+
+create table tab_ingresso
+(seq_ingresso integer  not null, 
+ cod_evento integer not null,
+ des_ingresso varchar(50),
+ des_ingresso1 varchar(50), 
+ val_entrada double precision,
+ des_lote varchar(30),
+ des_observacao1 varchar(50),
+ des_observacao2 varchar(50),
+ ind_aberto CHAR(1),
+ primary key (seq_ingresso));
+
+alter table tab_ingresso add constraint fk_ingresso_evento foreign key (cod_evento) references tab_evento(cod_evento);
+
+ create table tab_ingresso_impresso
+(seq_impressao integer  not null, 
+ cod_evento integer not null,
+ seq_ingresso integer not null,
+ qtd_impressa double precision,
+ val_total_impresso double precision,
+ primary key (seq_impressao));
+
+
+ alter table tab_ingresso_impresso add constraint fk_ingresso_impresso_evento foreign key (cod_evento) references tab_evento(cod_evento);
+ alter table tab_ingresso_impresso add constraint fk_impresso_ingresso foreign key (seq_ingresso) references tab_ingresso(seq_ingresso);
+ 
+
+create table tab_ingresso_pessoa
+(seq_lancamento integer  not null, 
+ seq_impressao integer not null,
+ cod_pessoa integer not null,
+ qtd_entregue double precision,
+ qtd_devolvida double precision,
+ des_observacao varchar(255),
+ dta_entrega date ,
+ primary key (seq_lancamento));
+
+alter table tab_ingresso_pessoa add constraint fk_ingresso_pessoa_pessoa foreign key (cod_pessoa) references tab_pessoa(cod_pessoa);
+alter table tab_ingresso_pessoa add constraint fk_ingresso_seq_impressao foreign key (seq_impressao) references tab_ingresso_impresso(seq_impressao);
+ 
+create table tab_forma_pagto_pdv(
+cod_forma_pagto integer not null,
+des_forma_pagto "varchar"(60) not NULL,
+cod_pessoa_sacado integer ,
+primary key (cod_forma_pagto));
+
+
+ alter table tab_forma_pagto_pdv add constraint fk_forma_pagto_pessoa foreign key (cod_pessoa_sacado) references tab_pessoa(cod_pessoa);
+  
+
+insert into TAB_FORMA_PAGTO_PDV values (1,'DINHEIRO',1 );
+insert into TAB_FORMA_PAGTO_PDV values (2,'CARTAO CREDITO',1 );
+insert into TAB_FORMA_PAGTO_PDV values (3,'CARTAO DEBITO',1 );
+insert into TAB_FORMA_PAGTO_PDV values (4,'NOTA A PRAZO',1);
+
+create table tab_pagamento_venda(
+seq_pagamento integer not null,
+seq_venda integer not null,
+cod_forma_pagto integer not NULL,
+val_pagamento double precision not NULL,
+primary key (seq_pagamento));
+
+	
+alter table tab_pagamento_venda add constraint fk_pagto_venda foreign key (seq_venda) references tab_venda(seq_venda);
+alter table tab_pagamento_venda add constraint fk_pagamento_venda foreign key (cod_forma_pagto) references tab_forma_pagto_pdv(cod_forma_pagto); 
+      
+     
+
+--**************************************************
+--versao 1.0.1 
+--**************************************************
+
+
+
+create table tab_pessoa_dependente
+(cod_dependente integer not null, 
+ nom_dependente varchar(60), 
+ cod_pessoa integer not null,
+ nom_apelido varchar(60), 
+ num_telefone varchar(14),
+ dta_nascimento date , 
+ des_observacao varchar(255),
+ primary key (cod_dependente));
+
+ALTER TABLE TAB_PESSOA_DEPENDENTE ADD CONSTRAINT REF_COD_PESSOA_DEPENDENTE FOREIGN KEY (COD_PESSOA) REFERENCES TAB_PESSOA (COD_PESSOA);
+
+
+create table tab_funcao_funcionario	 (
+    cod_funcao_funcionario  integer not null,
+    des_funcao_funcionario  varchar(60) not null,
+	primary key (cod_funcao_funcionario));
+    
+
+create table tab_pessoa_funcionario(
+	cod_pessoa integer not null,
+	cod_funcao_funcionario integer not null,
+	val_salario double precision,
+	val_custo_hora double precision,
+	ind_tipo_salario char(1),
+	dta_admissao date,
+	dta_demissao date,
+	dta_ultimo_reajuste date,
+	des_observacao varchar(255),
+primary key (cod_pessoa) );
+
+
+ALTER TABLE TAB_PESSOA_FUNCIONARIO ADD CONSTRAINT CHK_IND_TIPO_SALARIO check (ind_tipo_salario in ('M','Q','S','D','H'));
+ALTER TABLE TAB_PESSOA_FUNCIONARIO ADD CONSTRAINT CHK_VAL_CUSTO_HORA check (val_custo_hora >= 0);
+ALTER TABLE TAB_PESSOA_FUNCIONARIO ADD CONSTRAINT CHK_VAL_SALARIO check (val_salario >= 0);
+
+ALTER TABLE TAB_PESSOA_FUNCIONARIO ADD CONSTRAINT REF_COD_PESSOA FOREIGN KEY (COD_PESSOA) REFERENCES TAB_PESSOA (COD_PESSOA);
+ALTER TABLE TAB_PESSOA_FUNCIONARIO ADD CONSTRAINT REF_COD_FUNCAO FOREIGN KEY (COD_FUNCAO_FUNCIONARIO) REFERENCES TAB_FUNCAO_FUNCIONARIO (COD_FUNCAO_FUNCIONARIO);
+
+
+
+
+create table tab_especie (
+         cod_especie integer  not null,
+		 des_especie varchar(60) not null,
+		 primary key (cod_especie));
+
+create table tab_raca (
+         cod_raca integer  not null,
+		 des_raca varchar(60) not null,  
+primary key (cod_raca));
+
+create table tab_pelagem (
+         cod_pelagem integer  not null,
+		 des_pelagem varchar(60) not null ,  
+primary key (cod_pelagem));
+
+
+create table tab_vacina (
+         cod_vacina integer  not null,
+		 nom_vacina varchar(60) not null ,  
+primary key (cod_vacina));
+
+create table tab_controle_parasita (
+         cod_controle_parasita integer  not null,
+		 nom_controle_parasita varchar(60) not null ,  
+primary key (cod_controle_parasita));
+
+
+
+create table tab_animal	 (
+    cod_animal  integer not null,
+    nom_animal  varchar(60) not null,
+	cod_pessoa_proprietario integer not null,
+	ind_sexo char(1) not null,
+	dta_nascimento date,
+	cod_especie integer,
+	cod_raca integer,
+	cod_pelagem integer,
+	des_observacao varchar(255),
+	primary key (cod_animal));          
+
+
+alter table tab_animal add constraint ref_pessoa_proprietario foreign key (cod_pessoa_proprietario) references tab_pessoa (cod_pessoa);
+alter table tab_animal add constraint chk_ind_sexo check (ind_sexo in ('M','F'));
+alter table tab_animal add constraint ref_especie foreign key (cod_especie) references tab_especie (cod_especie);
+alter table tab_animal add constraint ref_raca foreign key (cod_raca) references tab_raca  (cod_raca);
+alter table tab_animal add constraint ref_pelagem foreign key (cod_pelagem) references tab_pelagem  (cod_pelagem);
+
+
+create table tab_animal_vacina (
+	     seq_vacina integer not null,
+         cod_vacina integer  not null,
+		 cod_animal integer not null,
+		 dta_vacina date not null,
+		 ind_vacinado char(1),		
+		 primary key (seq_vacina));  		 
+		 	
+alter table tab_animal_vacina add constraint ref_tab_vacina foreign key (cod_vacina) references tab_vacina (cod_vacina);
+alter table tab_animal_vacina add constraint ref_tab_animal foreign key (cod_animal) references tab_animal (cod_animal);
+alter table tab_animal_vacina add constraint chk_ind_vacinado check (ind_vacinado in ('S','N'));
+
+create table tab_animal_controle_parasita (
+	     seq_controle integer not null,
+             cod_controle_parasita integer  not null,
+             cod_animal integer not null,
+             dta_controle date not null,
+	     qtd_peso double precision,
+             des_dose varchar(30),
+	     dta_proxima date,	
+	     primary key (seq_controle));  		 
+		 	
+alter table tab_animal_controle_parasita add constraint ref_controle_parasita foreign key (cod_controle_parasita) references tab_controle_parasita (cod_controle_parasita);
+alter table tab_animal_controle_parasita add constraint ref_tab_animal_parasita foreign key (cod_animal) references tab_animal (cod_animal);
+
+
+ALTER TABLE tab_parametro_sistema ADD val_img_ingresso_tamanho_altura integer ;
+ALTER TABLE tab_parametro_sistema ADD val_img_ingresso_tamanho_largura integer ;
+ALTER TABLE tab_parametro_sistema ADD val_img_ingresso_margem_esquerda integer ;
+ALTER TABLE tab_parametro_sistema ADD val_img_ingresso_margem_cabecalho integer ;
+
+
+update tab_parametro_sistema set val_img_ingresso_tamanho_altura = 160 ,								 
+val_img_ingresso_tamanho_largura= 160 ,								 
+val_img_ingresso_margem_esquerda= 40 ,							 
+val_img_ingresso_margem_cabecalho = -20 ;
+
+
+create table tab_item_cod_barra(
+cod_item integer not null,
+cod_barra varchar(30) not null ,
+cod_referencia varchar(30),
+cod_unidade integer ,
+des_item varchar(60),
+primary key (cod_barra));
+
+alter table tab_item_cod_barra add constraint fk_item_codBarra foreign key (cod_item) references tab_item (cod_item);
+alter table tab_item_cod_barra add constraint fk_unidade foreign key (cod_unidade) references tab_unidade (cod_unidade);
+
+  
+  create table tab_preco_venda (
+ seq_preco_venda integer not null,
+ cod_item integer not null,
+ cod_empresa integer not null,
+ dta_inicio date not null,
+ val_preco_a double precision,
+ val_preco_b double precision,
+ val_preco_c double precision,
+ val_preco_d double precision,
+ cod_pessoa integer,
+ cod_forma_pagamento integer,
+ primary key(seq_preco_venda));
+
+ alter table tab_preco_venda add constraint ref_tab_item foreign key (cod_item) references tab_item (cod_item);
+ alter table tab_preco_venda add constraint ref_tab_empresa foreign key (cod_empresa) references tab_empresa (cod_empresa);
+ alter table tab_preco_venda add constraint ref_tab_pessoa foreign key (cod_pessoa) references tab_pessoa (cod_pessoa);
+
+ create table tab_item_fornecedor(
+seq_item_fornecedor integer not null,
+cod_item integer not null,
+cod_pessoa_fornecedor integer not null,
+cod_barra varchar(30),
+cod_referencia varchar(30),
+primary key (seq_item_fornecedor));
+
+alter table tab_item_fornecedor add constraint fk_item foreign key (cod_item) references tab_item (cod_item);
+alter table tab_item_fornecedor add constraint fk_pessoa foreign key (cod_pessoa_fornecedor) references tab_pessoa (cod_pessoa);
+
+  
+create table tab_especie_caixa(
+cod_especie integer not null,
+des_especie varchar(60) not null,
+ind_ativo char(1),
+primary key (cod_especie));
+
+alter table tab_especie_caixa add constraint chk_especie_ativo check (ind_ativo in ('S','N'));
+
+insert into tab_especie_caixa VALUES (1,'DINHEIRO','S');
+
+create table tab_tipo_despesa (
+cod_tipo_despesa integer not null ,
+des_tipo_despesa varchar(60) not null,
+ind_tipo char(1) not null,
+ind_ativo char(1),
+primary key (cod_tipo_despesa));  
+
+alter table tab_tipo_despesa add constraint chk_despesa_ativo check (ind_ativo in ('S','N'));
+alter table tab_tipo_despesa add constraint chk_despesa_tipo check (ind_tipo in ('A','F','I'));
+
+create table tab_despesa(
+seq_despesa integer not null,
+cod_empresa integer not null,
+dta_despesa date not null,
+num_documento varchar(30),
+val_despesa double precision,
+cod_tipo_despesa integer not null,
+cod_pessoa_favorecido integer not null,
+des_observacao varchar(255),
+cod_recebimento_especie integer,
+val_recebimento_especie double precision,
+dta_liquidacao date,
+val_total double precision,
+val_desconto double precision,
+val_desconto_porcentagem double precision,
+val_despesa_acessoria double precision,
+val_multa double precision,
+val_juros double precision,
+val_juros_porcentagem double precision,
+val_acrescimo double precision,
+primary key (seq_despesa));
+
+alter table tab_despesa add constraint fk_tipo_despesa foreign key (cod_tipo_despesa) references tab_tipo_despesa (cod_tipo_despesa);
+alter table tab_despesa add constraint fk_despesa_pessoa foreign key (cod_pessoa_favorecido) references tab_pessoa (cod_pessoa);
+alter table tab_despesa add constraint fk_despesa_especie foreign key (cod_recebimento_especie) references tab_pessoa (cod_pessoa);
+
+
+create table tab_banco (
+cod_banco integer not null, 
+nom_banco varchar(60) not null,
+primary key (cod_banco));
+
+create table tab_pagamento_banco(
+seq_pagamento integer not null,
+seq_despesa integer,
+seq_titulo integer,
+cod_banco integer not null,
+num_agencia varchar(15),
+num_conta varchar(15),
+dta_pre_datado date ,
+val_pagamento double precision,
+primary key (seq_pagamento));
+
+
+create table tab_tipo_parcela(
+cod_tipo_parcela integer not null,
+des_tipo_parcela varchar(60),
+primary key (cod_tipo_parcela));
+
+insert into tab_tipo_parcela(cod_tipo_parcela,des_tipo_parcela)values(1,'BOLETO BANCARIO');
+insert into tab_tipo_parcela(cod_tipo_parcela,des_tipo_parcela)values(2,'CARTAO CREDITO');
+
+create table tab_pagamento_parcelado(
+seq_pagamento integer not null,
+seq_despesa integer,
+seq_titulo integer,
+cod_tipo_parcela integer,
+dta_vencimento date,
+val_pagamento double precision,	
+val_juros double precision,
+val_juros_porcentagem double precision,
+val_total double precision,
+primary key (seq_pagamento));
+
+create table tab_tipo_movimento(
+             cod_tipo_movimento integer  not null,
+             des_tipo_movimento varchar(60),
+	     ind_entrada char(1),
+             primary key (cod_tipo_movimento));
+             
+create table tab_inventario_rapido(
+       seq_inventario integer not null,
+       cod_evento integer,
+	   cod_tipo_movimento integer,
+	   cod_item integer,
+	   qtd_item double precision,
+	   val_custo_unitario double precision,
+	   val_custo_total double precision,
+	   dta_inventario date,
+    primary key(seq_inventario));
+              
+
+insert into tab_tipo_movimento values (1,'ENTRADA POR INVENTARIO', 'E');
+insert into tab_tipo_movimento values (2,'SAIDA POR INVENTARIO', 'S');
+insert into tab_tipo_movimento values (3,'BAIXA POR ROUBO', 'S');
+insert into tab_tipo_movimento values (4,'BAIXA POR PERDA', 'S');
+insert into tab_tipo_movimento values (5,'BAIXA POR PERDA', 'S');
+insert into tab_tipo_movimento values (6,'BAIXA POR CONSUMO', 'S');
+insert into tab_tipo_movimento values (7,'COMPRA DE PRODUTOS', 'E');
+insert into tab_tipo_movimento values (8,'DEVOLUCAO DE COMPRA', 'S');
+insert into tab_tipo_movimento values (9,'DEVOLUCAO DE VENDA', 'E');
+insert into tab_tipo_movimento values (10,'VENDA DE PRODUTOS', 'S');
+insert into tab_tipo_movimento values (11,'PRESTACAO DE SERVICO', 'S');
+
+
+create table tab_agenda_servico(
+seq_agenda integer not null,
+cod_pessoa_cliente integer not null,
+cod_pessoa_funcionario integer ,
+dta_agenda TIMESTAMP not null ,
+hra_agenda integer not null,
+min_agenda integer not null,
+val_servico double precision,
+des_observacao varchar(255),
+ind_executado char(1) not null, 
+primary key (seq_agenda)) ;   
+ 
+alter table tab_agenda_servico add constraint fk_agenda_cliente foreign key (cod_pessoa_cliente)references tab_pessoa(cod_pessoa);
+alter table tab_agenda_servico add constraint fk_agenda_funcionario foreign key (cod_pessoa_funcionario)references tab_pessoa(cod_pessoa);
+alter table tab_agenda_servico add constraint chk_ind_executado check (ind_executado in ('N','S'));
+
+create table tab_item_agenda(
+seq_item_agenda integer not null,
+seq_agenda integer not null,
+cod_item integer not null,
+primary key (seq_item_agenda));
+
+alter table tab_item_agenda add constraint fk_agenda_item_agenda foreign key (seq_agenda) references tab_agenda_servico (seq_agenda);
+alter table tab_item_agenda add constraint fk_agenda_item_item foreign key (cod_item) REFERENCES tab_item(cod_item);
+     
+alter table tab_pessoa_funcionario add ind_agenda_servico char(2); 
+
+insert into tab_funcao_funcionario values(1,'SERVICOS GERAIS');
+insert into tab_funcao_funcionario values(2,'GERENTE'); 
+insert into tab_funcao_funcionario values(3,'AUXILIAR ADMINISTRATIVO');
+insert into tab_funcao_funcionario values(4,'SOCIO PROPRIETARIO'); 
+                                  

@@ -1,0 +1,762 @@
+alter table tab_venda add dta_venda date ;
+
+alter table tab_parametro_sistema add hra_inicio_agenda_servico  INTEGER;
+
+update tab_parametro_sistema set hra_inicio_agenda_servico = 0 ;
+
+alter table tab_venda add cod_empresa integer;
+
+alter table tab_inventario_rapido add cod_empresa integer;
+
+create table tab_grupo_usuario
+    (cod_grupo_usuario integer not null,
+     des_grupo_usuario VARCHAR(60) not NULL,
+     ind_ativo CHAR(1)not NULL,
+     primary key (cod_grupo_usuario));
+     
+alter table tab_grupo_usuario add constraint chk_ativo check (ind_ativo in ('S','N'));
+
+create table tab_tela_acesso 
+        (cod_tela_acesso integer not null,
+         des_tela_acesso VARCHAR(60)not null,
+         primary key (cod_tela_acesso));
+         
+create table tab_grupo_usuario_tela 
+        (cod_grupo_usuario integer not NULL,
+         cod_tela_acesso integer not null,             
+         primary key (cod_grupo_usuario,cod_tela_acesso)); 
+         
+   
+alter table tab_grupo_usuario_tela add constraint fk_grupo_usuario foreign key (cod_grupo_usuario) references tab_grupo_usuario(cod_grupo_usuario);        
+alter table tab_grupo_usuario_tela add constraint fk_tela_acesso foreign key (cod_tela_acesso) references tab_tela_acesso(cod_tela_acesso);             
+
+create table tab_usuario_tela 
+        (cod_usuario integer not NULL,
+         cod_tela_acesso integer not null,
+         primary key (cod_usuario,cod_tela_acesso));   
+         
+alter table tab_usuario_tela add  constraint fk_usuario_tela foreign key(cod_usuario) references tab_usuario(cod_usuario);        
+alter table tab_usuario_tela add  constraint fk_user_tela_acesso foreign key(cod_tela_acesso) references tab_tela_acesso(cod_tela_acesso);             
+alter table tab_usuario add cod_grupo_usuario integer ; 
+
+alter table tab_parametro_sistema ADD num_versao_banco varchar(30) ;
+
+
+--#############################################################
+update tab_parametro_sistema set num_versao_banco = '0.0.2';
+--#############################################################
+alter table tab_tela_acesso add ind_pasta CHAR(1);
+alter table tab_tela_acesso add constraint chk_ind_pasta check (ind_pasta in ('S','N'));
+
+insert into tab_tela_acesso values (10,'Sistema','S');
+insert into tab_tela_acesso values (1001,'Usuario','S');
+insert into tab_tela_acesso values (100101,'Grupo Usuario','N');
+insert into tab_tela_acesso values (1001010,'Grupo Usuario acesso','N');
+insert into tab_tela_acesso values (1001011,'Grupo Usuario incluir','N');
+insert into tab_tela_acesso values (1001012,'Grupo Usuario excluir','N');
+insert into tab_tela_acesso values (100102,'Usuario','N');
+insert into tab_tela_acesso values (1001020,'Usuario acesso','N');
+insert into tab_tela_acesso values (1001021,'Usuario incluir','N');
+insert into tab_tela_acesso values (1001022,'Usuario excluir','N');
+
+insert into tab_tela_acesso values (100103,'Controle Acesso','N');
+insert into tab_tela_acesso values (1001030,'Controle Acesso acesso','N');
+insert into tab_tela_acesso values (1001031,'Controle Acesso incluir','N');
+insert into tab_tela_acesso values (1001032,'Controle Acesso excluir','N');
+
+insert into tab_tela_acesso values (1002,'Parametro Sistema','N');
+insert into tab_tela_acesso values (10020,'Parametro Sistema acesso','N');
+insert into tab_tela_acesso values (10021,'Parametro Sistema incluir','N');
+insert into tab_tela_acesso values (10022,'Parametro Sistema excluir','N');
+insert into tab_tela_acesso values (1003,'Licencia','N');
+insert into tab_tela_acesso values (10030,'Licencia acesso','N');
+insert into tab_tela_acesso values (10031,'Licencia incluir','N');
+insert into tab_tela_acesso values (10032,'Licencia excluir','N');
+
+
+insert into tab_tela_acesso values (11,'Pessoa','S');
+insert into tab_tela_acesso values (1101,'Pessoa','S');
+insert into tab_tela_acesso values (110101, 'Pessoa','N');
+insert into tab_tela_acesso values (1101010,'Pessoa acesso','N');
+insert into tab_tela_acesso values (1101011,'Pessoa incluir','N');
+insert into tab_tela_acesso values (1101012,'Pessoa excluir','N');
+
+insert into tab_tela_acesso values (110102,'Funcao Funcionario','N');
+insert into tab_tela_acesso values (1101020,'Funcao Funcionario acesso','N');
+insert into tab_tela_acesso values (1101021,'Funcao Funcionario incluir','N');
+insert into tab_tela_acesso values (1101022,'Funcao Funcionario excluir','N');
+
+insert into tab_tela_acesso values (1102,'Cidade','N');
+insert into tab_tela_acesso values (11020,'Cidade acesso','N');
+insert into tab_tela_acesso values (11021,'Cidade incluir','N');
+insert into tab_tela_acesso values (11022,'Cidade excluir','N');
+
+insert into tab_tela_acesso values (12,'Estoque','S');
+insert into tab_tela_acesso values (1201,'Item','S');
+insert into tab_tela_acesso values (120101,'Almoxarifado','N');
+insert into tab_tela_acesso values (1201010,'Almoxarifado acesso','N');
+insert into tab_tela_acesso values (1201011,'Almoxarifado incluir','N');
+insert into tab_tela_acesso values (1201012,'Almoxarifado excluir','N');
+
+insert into tab_tela_acesso values (120102,'Secao','N');
+insert into tab_tela_acesso values (1201020,'Secao acesso','N');
+insert into tab_tela_acesso values (1201021,'Secao incluir','N');
+insert into tab_tela_acesso values (1201022,'Secao excluir','N');
+
+insert into tab_tela_acesso values (120103,'Categoria','N');
+insert into tab_tela_acesso values (1201030,'Categoria acesso','N');
+insert into tab_tela_acesso values (1201031,'Categoria incluir','N');
+insert into tab_tela_acesso values (1201032,'Categoria excluir','N');
+
+insert into tab_tela_acesso values (120104,'SubCategoria','N');
+insert into tab_tela_acesso values (1201040,'SubCategoria acesso','N');
+insert into tab_tela_acesso values (1201041,'SubCategoria incluir','N');
+insert into tab_tela_acesso values (1201042,'SubCategoria excluir','N');
+
+insert into tab_tela_acesso values (120105,'Item','N');
+insert into tab_tela_acesso values (1201050,'Item acesso','N');
+insert into tab_tela_acesso values (1201051,'Item incluir','N');
+insert into tab_tela_acesso values (1201052,'Item excluir','N');
+
+insert into tab_tela_acesso values (120106,'Unidade','N');
+insert into tab_tela_acesso values (1201060,'Unidade acesso','N');
+insert into tab_tela_acesso values (1201061,'Unidade incluir','N');
+insert into tab_tela_acesso values (1201062,'Unidade excluir','N');
+
+insert into tab_tela_acesso values (120107,'Marca','N');
+insert into tab_tela_acesso values (1201070,'Marca acesso','N');
+insert into tab_tela_acesso values (1201071,'Marca incluir','N');
+insert into tab_tela_acesso values (1201072,'Marca excluir','N');
+
+insert into tab_tela_acesso values (120108,'Relatorios','S');
+insert into tab_tela_acesso values (12010801,'Rel Itens','N');
+insert into tab_tela_acesso values (120108010,'Rel Item acesso','N');
+insert into tab_tela_acesso values (120108011,'Rel Item incluir','N');
+insert into tab_tela_acesso values (120108012,'Rel Item excluir','N');
+
+insert into tab_tela_acesso values (1202,'Inventario Rapido','N');
+insert into tab_tela_acesso values (12020,'Inventario Rapido acesso','N');
+insert into tab_tela_acesso values (12021,'Inventario Rapido incluir','N');
+insert into tab_tela_acesso values (12022,'Inventario Rapido excluir','N');
+
+insert into tab_tela_acesso values (13,'Administrativo','S');
+insert into tab_tela_acesso values (1301,'Despesa','S');
+insert into tab_tela_acesso values (130101,'Tipo Despesa','N');
+insert into tab_tela_acesso values (1301010,'Tipo Despesa acesso','N');
+insert into tab_tela_acesso values (1301011,'Tipo Despesa incluir','N');
+insert into tab_tela_acesso values (1301012,'Tipo Despesa excluir','N');
+
+insert into tab_tela_acesso values (130102,'Despesa','N');
+insert into tab_tela_acesso values (1301020,'Despesa acesso','N');
+insert into tab_tela_acesso values (1301021,'Despesa incluir','N');
+insert into tab_tela_acesso values (1301022,'Despesa excluir','N');
+
+insert into tab_tela_acesso values (130103,'Relatorios','S');
+insert into tab_tela_acesso values (13010301,'Rel.Despesas','N');
+insert into tab_tela_acesso values (130103010,'Rel.Despesa acesso','N');
+insert into tab_tela_acesso values (130103011,'Rel.Despesa incluir','N');
+insert into tab_tela_acesso values (130103012,'Rel.Despesa excluir','N');
+
+
+insert into tab_tela_acesso values (1302,'Receita','S');
+insert into tab_tela_acesso values (130201,'Tipo Receita','N');
+insert into tab_tela_acesso values (1302010,'Tipo Receita acesso','N');
+insert into tab_tela_acesso values (1302011,'Tipo Receita incluir','N');
+insert into tab_tela_acesso values (1302012,'Tipo Receita excluir','N');
+
+insert into tab_tela_acesso values (130202,'Receita','N');
+insert into tab_tela_acesso values (1302020,'Receita acesso','N');
+insert into tab_tela_acesso values (1302021,'Receita incluir','N');
+insert into tab_tela_acesso values (1302022,'Receita excluir','N');
+
+insert into tab_tela_acesso values (130203,'Relatorios','S');
+insert into tab_tela_acesso values (13020301,'Rel.Receita','N');
+insert into tab_tela_acesso values (130203010,'Rel.Receita acesso','N');
+insert into tab_tela_acesso values (130203011,'Rel.Receita incluir','N');
+insert into tab_tela_acesso values (130203012,'Rel.Receita excluir','N');
+
+insert into tab_tela_acesso values (14,'Vendas','S');
+insert into tab_tela_acesso values (1401,'PDV','S');
+insert into tab_tela_acesso values (140101,'PDV1','N');
+insert into tab_tela_acesso values (1401010,'PDV1 acesso','N');
+insert into tab_tela_acesso values (1401011,'PDV1 incluir','N');
+insert into tab_tela_acesso values (1401012,'PDV1 excluir','N');
+
+insert into tab_tela_acesso values (140102,'PDV2','N');
+insert into tab_tela_acesso values (1401020,'PDV2 acesso','N');
+insert into tab_tela_acesso values (1401021,'PDV2 incluir','N');
+insert into tab_tela_acesso values (1401022,'PDV2 excluir','N');
+
+insert into tab_tela_acesso values (1402,'Agenda Servicos','S');
+insert into tab_tela_acesso values (140201,'Agenda','N');
+insert into tab_tela_acesso values (1402010,'Agenda acesso','N');
+insert into tab_tela_acesso values (1402011,'Agenda incluir','N');
+insert into tab_tela_acesso values (1402012,'Agenda excluir','N');
+
+
+insert into tab_tela_acesso values (140202,'Relatorios','S');
+insert into tab_tela_acesso values (14020201,'Rel.Comissao Agenda Servicos acesso','N');
+insert into tab_tela_acesso values (140202010,'Rel.Comissao Agenda Servicos acesso','N');
+insert into tab_tela_acesso values (140202011,'Rel.Comissao Agenda Servicos incluir','N');
+insert into tab_tela_acesso values (140202012,'Rel.Comissao Agenda Servicos excluir','N');
+
+insert into tab_tela_acesso values (1403,'Relatorios','S');
+insert into tab_tela_acesso values (140301,'Rel.Vendas Por SubCategoria','N');
+insert into tab_tela_acesso values (1403010,'Rel.Vendas Por SubCategoria acesso','N');
+insert into tab_tela_acesso values (1403011,'Rel.Vendas Por SubCategoria incluir','N');
+insert into tab_tela_acesso values (1403012,'Rel.Vendas Por SubCategoria excluir','N');
+
+insert into tab_tela_acesso values (15,'Financeiro','S');
+insert into tab_tela_acesso values (1501,'Especie','S');
+insert into tab_tela_acesso values (150101,'Especie Caixa','N');
+insert into tab_tela_acesso values (1501010,'Especie Caixa acesso','N');
+insert into tab_tela_acesso values (1501011,'Especie Caixa incluir','N');
+insert into tab_tela_acesso values (1501012,'Especie Caixa excluir','N');
+
+insert into tab_tela_acesso values (1502,'Banco','S');
+insert into tab_tela_acesso values (150201,'Bancos','N');
+insert into tab_tela_acesso values (1502010,'Bancos acesso','N');
+insert into tab_tela_acesso values (1502011,'Bancos incluir','N');
+insert into tab_tela_acesso values (1502012,'Bancos excluir','N');
+
+insert into tab_tela_acesso values (1503,'Tipo Parcelamento','S');
+insert into tab_tela_acesso values (15030,'Tipo Parcelamento acesso','N');
+insert into tab_tela_acesso values (15031,'Tipo Parcelamento incluir','N');
+insert into tab_tela_acesso values (15032,'Tipo Parcelamento excluir','N');
+
+
+
+insert into tab_tela_acesso values (1504,'Contas a Pagar','S');
+insert into tab_tela_acesso values (150401,'Titulos a Pagar','N');
+insert into tab_tela_acesso values (1504010,'Titulos a Pagar acesso','N');
+insert into tab_tela_acesso values (1504011,'Titulos a Pagar incluir','N');
+insert into tab_tela_acesso values (1504012,'Titulos a Pagar excluir','N');
+insert into tab_tela_acesso values (150402,'Relatorio','S');
+insert into tab_tela_acesso values (15040201,'Rel Titulos a Pagar','N');
+insert into tab_tela_acesso values (150402010,'Rel Titulos a Pagar acesso','N');
+insert into tab_tela_acesso values (150402011,'Rel Titulos a Pagar incluir','N');
+insert into tab_tela_acesso values (150402012,'Rel Titulos a Pagar excluir','N');
+insert into tab_tela_acesso values (1505,'Contas a Receber','S');
+
+insert into tab_tela_acesso values (150501,'Titulos a Receber','N');
+insert into tab_tela_acesso values (1505010,'Titulos a Receber acesso','N');
+insert into tab_tela_acesso values (1505011,'Titulos a Receber incluir','N');
+insert into tab_tela_acesso values (1505012,'Titulos a Receber excluir','N');
+insert into tab_tela_acesso values (150502,'Relatorio','S');
+insert into tab_tela_acesso values (15050201,'Rel Titulos a Receber','N');
+insert into tab_tela_acesso values (150502010,'Rel Titulos a Receber acesso','N');
+insert into tab_tela_acesso values (150502011,'Rel Titulos a Receber incluir','N');
+insert into tab_tela_acesso values (150502012,'Rel Titulos a Receber excluir','N');
+
+
+insert into tab_tela_acesso values (16,'Relatorios','S');
+insert into tab_tela_acesso values (1601,'Despesas','S');
+insert into tab_tela_acesso values (160101,'Rel.Despesas','N');
+insert into tab_tela_acesso values (1601010,'Rel.Despesas acesso ','N');
+insert into tab_tela_acesso values (1601011,'Rel.Despesas incluir','N');
+insert into tab_tela_acesso values (1601012,'Rel.Despesas excluir','N');
+
+insert into tab_tela_acesso values (1602,'Venda','S');
+insert into tab_tela_acesso values (160201,'Rel.Vendas Por SubCategoria ','N');
+insert into tab_tela_acesso values (1602010,'Rel.Vendas Por SubCategoria acesso','N');
+insert into tab_tela_acesso values (1602011,'Rel.Vendas Por SubCategoria incluir','N');
+insert into tab_tela_acesso values (1602012,'Rel.Vendas Por SubCategoria excluir','N');
+
+insert into tab_tela_acesso values (160202,'Rel.Movimento estoque','N');
+insert into tab_tela_acesso values (1602020,'Rel.Movimento estoque acesso','N');
+insert into tab_tela_acesso values (1602021,'Rel.Movimento estoque incluir','N');
+insert into tab_tela_acesso values (1602022,'Rel.Movimento estoque excluir','N');
+
+insert into tab_tela_acesso values (1603,'Estoque','S');
+insert into tab_tela_acesso values (160301,'Rel.MovimentoEstoque','N');
+insert into tab_tela_acesso values (1603010,'Rel.MovimentoEstoque acesso','N');
+insert into tab_tela_acesso values (1603011,'Rel.MovimentoEstoque incluir','N');
+insert into tab_tela_acesso values (1603012,'Rel.MovimentoEstoque excluir','N');
+
+insert into tab_tela_acesso values (17,'Pet','S');
+insert into tab_tela_acesso values (1701,'Animal','S');
+insert into tab_tela_acesso values (170101,'Especie','N');
+insert into tab_tela_acesso values (1701010,'Especie acesso','N');
+insert into tab_tela_acesso values (1701011,'Especie incluir','N');
+insert into tab_tela_acesso values (1701012,'Especie excluir','N');
+
+
+insert into tab_tela_acesso values (170102,'Raca','N');
+insert into tab_tela_acesso values (1701020,'Raca acesso','N');
+insert into tab_tela_acesso values (1701021,'Raca incluir','N');
+insert into tab_tela_acesso values (1701022,'Raca excluir','N');
+
+insert into tab_tela_acesso values (170103,'Pelagem','N');
+insert into tab_tela_acesso values (1701030,'Pelagem acesso','N');
+insert into tab_tela_acesso values (1701031,'Pelagem incluir','N');
+insert into tab_tela_acesso values (1701032,'Pelagem excluir','N');
+
+insert into tab_tela_acesso values (170104,'Animal','N');
+insert into tab_tela_acesso values (1701040,'Animal acesso','N');
+insert into tab_tela_acesso values (1701041,'Animal incluir','N');
+insert into tab_tela_acesso values (1701042,'Animal excluir','N');
+
+insert into tab_tela_acesso values (1702,'Controle Vacina','N');
+insert into tab_tela_acesso values (17020,'Controle Vacina acesso','N');
+insert into tab_tela_acesso values (17021,'Controle Vacina incluir','N');
+insert into tab_tela_acesso values (17022,'Controle Vacina excluir','N');
+
+insert into tab_tela_acesso values (1703,'Controle Parasita','N');
+insert into tab_tela_acesso values (17030,'Controle Parasita acesso','N');
+insert into tab_tela_acesso values (17031,'Controle Parasita incluir','N');
+insert into tab_tela_acesso values (17032,'Controle Parasita excluir','N');
+
+insert into tab_tela_acesso values (18,'Eventos','S');
+insert into tab_tela_acesso values (1801,'Eventos','N');
+insert into tab_tela_acesso values (180101,'Eventos','N');
+insert into tab_tela_acesso values (1801010,'Eventos acesso','N');
+insert into tab_tela_acesso values (1801011,'Eventos incluir','N');
+insert into tab_tela_acesso values (1801012,'Eventos excluir','N');
+insert into tab_tela_acesso values (180102,'Imprimir Ingresso','N');
+insert into tab_tela_acesso values (1802,'Relatorio','S');
+insert into tab_tela_acesso values (180201,'Rel Ingresso Impresso','N');
+insert into tab_tela_acesso values (1802010,'Rel Ingresso Impresso acesso','N');
+insert into tab_tela_acesso values (1802011,'Rel Ingresso Impressoincluir','N');
+insert into tab_tela_acesso values (1802012,'Rel Ingresso Impressoexcluir','N');
+
+update tab_usuario set des_permissao_usuario = 'MASTER' WHERE cod_usuario = 1 ;
+
+alter table tab_inventario_rapido add num_inventario varchar(20);
+alter table tab_inventario_rapido add des_observacao varchar(255);
+alter table tab_inventario_rapido add ind_tipo_inventario char(1);
+alter table tab_inventario_rapido add constraint chk_ind_tipo_inventario check (ind_tipo_inventario in ('T','P'));
+
+alter table tab_inventario_rapido drop cod_evento;
+alter table tab_inventario_rapido add cod_almoxarifado integer not null DEFAULT 1;
+
+alter table tab_inventario_rapido add constraint fk_almoxarifado foreign key (cod_almoxarifado) references tab_almoxarifado(cod_almoxarifado);  
+
+
+create table tab_pdv (
+    cod_pdv                      integer not null,
+    cod_empresa                  integer not null,
+    des_pdv                      varchar(60) not null,
+    ind_ativo                    char(1) not null,    
+primary key (cod_pdv));
+	
+alter table tab_pdv add constraint chk_ind_ativo check (ind_ativo in ('S','N'));
+
+
+create table tab_fechamento_caixa_pdv (
+    seq_fechamento                 integer not null,
+    cod_pdv                        integer not null,
+    cod_operador                   integer not null,
+    dta_fechamento                 date not null,
+    num_fechamento                 integer not null,
+    hra_abertura                   varchar(5),
+    hra_fechamento                 varchar(5),
+    nom_operador                   varchar(60),
+    val_troco_inicial              double precision,
+    val_troco_final                double precision,
+    val_venda_produto              double precision,
+    val_devolucao_produto          double precision,
+    val_venda_servico              double precision,       
+    val_especie                    double precision,
+    val_nota_a_prazo               double precision,
+    val_cartao_debito              double precision,
+    val_cartao_credito             double precision,
+    val_cheque                     double precision ,    
+    val_diferenca_caixa            double precision ,
+    des_observacao                 varchar(100),
+    ind_status                     char(1) not null,
+    val_receitas                   double precision,
+    val_titulos_recebidos          double precision,
+    val_deposito                   double precision,
+    val_sangria_especie            double precision,
+primary key (seq_fechamento));
+
+alter table tab_fechamento_caixa_pdv add constraint chk_ind_status check (ind_status in ('A','F','C'));
+alter table tab_fechamento_caixa_pdv add constraint fk_cod_pdv foreign key (cod_pdv) references tab_pdv (cod_pdv);
+
+create index idx_dta_fechamento on tab_fechamento_caixa_pdv (dta_fechamento);
+create index idx_status on tab_fechamento_caixa_pdv (ind_status);
+
+
+create table tab_nota_fiscal_saida (
+    seq_nota                      integer not null,
+    cod_empresa                   integer not null,
+    num_nota                      varchar(10),
+    dta_emissao                   date,
+    dta_saida                     date,
+	hra_emissao                   char(5),
+    cod_pessoa_cliente            integer not null,
+	cod_pessoa_representante      integer not null,
+    cod_usuario                   integer not null,
+    val_desconto_produto          double precision not null,
+    val_total_produto             double precision not null,
+    val_total_servico             double precision not null,
+    val_total_nota                double precision not null,
+	val_troco                     double precision,
+    des_observacao                varchar(100),
+    ind_status                    char(1) not null,
+    cod_usuario_cancelamento      integer,
+    dta_cancelamento              date,
+    seq_fechamento                integer,
+    cod_pdv                       integer,
+    seq_turno                     integer,
+primary key (seq_nota));
+
+alter table tab_nota_fiscal_saida add constraint fk_empresa foreign key (cod_empresa) references tab_empresa (cod_empresa);
+alter table tab_nota_fiscal_saida add constraint fk_pessoa_cliente foreign key (cod_pessoa_cliente) references tab_pessoa (cod_pessoa);
+alter table tab_nota_fiscal_saida add constraint fk_pessoa_representante foreign key (cod_pessoa_representante) references tab_pessoa (cod_pessoa);
+alter table tab_nota_fiscal_saida add constraint fk_usuario foreign key (cod_usuario) references tab_usuario (cod_usuario);
+create index idx_num_nota on tab_nota_fiscal_saida (num_nota);
+create index idx_ind_status on tab_nota_fiscal_saida (ind_status);
+create index idx_dta_emissao on tab_nota_fiscal_saida (dta_emissao);
+alter table tab_nota_fiscal_saida add constraint chk_status check (ind_status in ('F','I','C','A'));
+
+create table tab_item_nfs (
+    seq_nota                     integer not null,
+    seq_item_nota                integer not null,
+    cod_item                     integer not null,
+    des_item                     varchar(60),
+    qtd_item                     double precision not null,
+    cod_unidade                  integer not null,
+    qtd_item_convertido          double precision not null,
+    val_unitario                 double precision not null,
+    val_bruto_item               double precision not null,
+    val_desconto                 double precision not null,
+    val_acrescimo                double precision not null,
+primary key (seq_item_nota,seq_nota));
+
+alter table tab_item_nfs add constraint fk_item foreign key (cod_item) references tab_item (cod_item);
+alter table tab_item_nfs add constraint fk_unidade foreign key (cod_unidade) references tab_unidade (cod_unidade);
+alter table tab_item_nfs add constraint fk_seq_nota foreign key (seq_nota) references tab_nota_fiscal_saida (seq_nota);
+
+create table tab_pagamento_nfs (
+    seq_nota                 integer not null,
+    seq_pagamento             integer not null,
+    cod_forma_pagamento           integer not null,
+    val_pagamento             double precision not null,
+primary key (seq_nota,seq_pagamento));
+
+
+
+alter table tab_pagamento_nfs add constraint fk_seq_nfs foreign key (seq_nota) references tab_nota_fiscal_saida (seq_nota);
+
+
+insert into tab_pdv(cod_pdv     ,
+                    cod_empresa ,
+                    des_pdv     ,                    
+                    ind_ativo )  
+            VALUES(1,1,'PDV LOJA','S');  
+
+
+
+
+
+insert into tab_fechamento_caixa_pdv (
+seq_fechamento        ,
+cod_pdv               ,
+cod_operador          ,
+dta_fechamento        ,
+num_fechamento        ,
+hra_abertura          ,
+hra_fechamento        ,
+nom_operador          ,
+val_troco_inicial     ,
+val_troco_final       ,
+val_venda_produto     ,
+val_devolucao_produto ,
+val_venda_servico     ,
+val_especie           ,
+val_nota_a_prazo      ,
+val_cartao_debito     ,
+val_cartao_credito    ,
+val_cheque            ,
+val_diferenca_caixa   ,
+des_observacao        ,
+ind_status            ,
+val_receitas          ,
+val_titulos_recebidos ,
+val_deposito          ,
+val_sangria_especie )VALUES
+(1, 1, 1, '18/02/2020', 1,'09:30',NULL,'GUGU',
+0,0,0,0,0,0,0,0,0,0,0,'','A',0,0,0,0);
+
+
+
+--#############################################################
+update tab_parametro_sistema set num_versao_banco = '0.0.3';
+--#############################################################
+
+alter table tab_nota_fiscal_saida add val_acrescimo_produto double precision  DEFAULT 0;
+alter table tab_nota_fiscal_saida add val_desconto double precision  DEFAULT 0;
+alter table tab_nota_fiscal_saida add val_acrescimo double precision  DEFAULT 0;
+
+
+--#############################################################
+update tab_parametro_sistema set num_versao_banco = '0.0.4';
+--#############################################################
+
+alter table tab_pessoa add ind_preco_venda char(1) not null DEFAULT 'A';
+alter table tab_pessoa add constraint chk_ind_preco_venda check (ind_preco_venda in ('A','B','C','D'));
+
+update tab_tela_acesso  set des_tela_acesso = 'Rel.Venda por Cliente'
+where cod_tela_acesso = 160202;
+update tab_tela_acesso  set des_tela_acesso = 'Rel.Venda por Cliente acesso'
+where cod_tela_acesso = 1602020;
+update tab_tela_acesso  set des_tela_acesso = 'Rel.Venda por Cliente incluir'
+where cod_tela_acesso = 1602021;
+update tab_tela_acesso  set des_tela_acesso = 'Rel.Venda por Cliente excluir'
+where cod_tela_acesso = 1602022
+
+--#############################################################
+update tab_parametro_sistema set num_versao_banco = '0.0.5';
+--#############################################################
+
+
+create table tab_tipo_receita (
+cod_tipo_receita integer not null ,
+des_tipo_receita varchar(60) not null,
+ind_tipo char(1) not null,
+ind_ativo char(1),
+primary key (cod_tipo_receita));  
+
+alter table tab_tipo_receita add constraint chk_receita_ativo check (ind_ativo in ('S','N'));
+alter table tab_tipo_receita add constraint chk_receita_tipo check (ind_tipo in ('A','F','I'));
+
+create table tab_receita(
+seq_receita integer not null,
+cod_empresa integer not null,
+dta_receita date not null,
+num_documento varchar(30),
+val_receita double precision,
+cod_tipo_receita integer not null,
+cod_pessoa_cliente integer not null,
+des_observacao varchar(255),
+cod_recebimento_especie integer,
+val_recebimento_especie double precision,
+dta_liquidacao date,
+val_total double precision,
+val_desconto double precision,
+val_desconto_porcentagem double precision,
+val_despesa_acessoria double precision,
+val_multa double precision,
+val_juros double precision,
+val_juros_porcentagem double precision,
+val_acrescimo double precision,
+primary key (seq_receita));
+
+alter table tab_receita add constraint fk_tipo_receita foreign key (cod_tipo_receita) references tab_tipo_receita (cod_tipo_receita);
+alter table tab_receita add constraint fk_receita_pessoa foreign key (cod_pessoa_cliente) references tab_pessoa (cod_pessoa);
+alter table tab_receita add constraint fk_receita_especie foreign key (cod_recebimento_especie) references tab_pessoa (cod_pessoa);
+
+
+update tab_tela_acesso set des_tela_acesso = 'Cadastro PDV' where cod_tela_acesso = 140101;
+update tab_tela_acesso set des_tela_acesso = 'Cadastro PDV acesso' where cod_tela_acesso = 1401010;
+update tab_tela_acesso set des_tela_acesso = 'Cadastro PDV incluir' where cod_tela_acesso = 1401011;
+update tab_tela_acesso set des_tela_acesso = 'Cadastro PDV excluir' where cod_tela_acesso = 1401012;
+
+update tab_tela_acesso set des_tela_acesso = 'PDV1' where cod_tela_acesso = 140102;
+update tab_tela_acesso set des_tela_acesso = 'PDV1 acesso' where cod_tela_acesso = 1401020;
+update tab_tela_acesso set des_tela_acesso = 'PDV1 incluir' where cod_tela_acesso = 1401021;
+update tab_tela_acesso set des_tela_acesso = 'PDV1 excluir' where cod_tela_acesso = 1401022;
+
+
+insert into tab_tela_acesso values (140103,'PDV2','N');
+insert into tab_tela_acesso values (1401030,'PDV2 acesso','N');
+insert into tab_tela_acesso values (1401031,'PDV2 incluir','N');
+insert into tab_tela_acesso values (1401032,'PDV2 excluir','N');
+
+alter table tab_empresa add nom_empresa varchar(60);
+
+alter table tab_pdv add des_hostname varchar(60);
+
+alter table tab_pessoa_funcionario add ind_operador_caixa CHAR(1) not null default 'N';
+alter table tab_pessoa_funcionario add constraint chk_ind_operador_caixa check (ind_operador_caixa in ('S','N'));
+
+insert into tab_tela_acesso values (1404,'Fechamento Caixa','S');
+insert into tab_tela_acesso values (140401,'Fechamento Caixa','N');
+insert into tab_tela_acesso values (1404010,'Fechamento Caixa acesso','N');
+insert into tab_tela_acesso values (1404011,'Fechamento Caixa incluir','N');
+insert into tab_tela_acesso values (1404012,'Fechamento Caixa excluir','N');
+
+insert into tab_tela_acesso values (140402,'Abertura Caixa','N');
+insert into tab_tela_acesso values (1404020,'Abertura Caixa acesso','N');
+insert into tab_tela_acesso values (1404021,'Abertura Caixa incluir','N');
+insert into tab_tela_acesso values (1404022,'Abertura Caixa excluir','N');
+
+        
+create table tab_sangria (
+seq_sangria integer not null,
+seq_fechamento integer not NULL,
+val_sangria double precision not null,
+des_observacao varchar(255),
+primary key (seq_sangria));
+
+create table tab_resumo_venda_item(
+   seq_venda integer not NULL,
+   seq_fechamento integer not NULL,
+   cod_item integer not null,
+   qtd_item double precision not null,
+   val_unitario double precision not NULL,
+   val_desconto double precision not null,
+   val_acrescimo double precision not NULL,
+   val_liquido double precision not NULL,
+   ind_tipo char(1) not null,
+   primary key (seq_venda));
+   
+alter table tab_resumo_venda_item add constraint chk_unitario check (val_unitario >= 0);
+alter table tab_resumo_venda_item add constraint chk_desconto check (val_desconto >= 0);
+alter table tab_resumo_venda_item add constraint chk_acrescimo check (val_acrescimo >= 0);
+alter table tab_resumo_venda_item add constraint chk_liquido check (val_liquido >= 0);
+alter table tab_resumo_venda_item add constraint chk_tipo check (ind_tipo in ('P','S','I'));
+alter table tab_resumo_venda_item add constraint chk_qtd check(qtd_item > 0);
+
+
+alter table tab_resumo_venda_item add constraint Fk_cod_item foreign key (cod_item) references tab_item (cod_item);
+alter table tab_resumo_venda_item add constraint Fk_seq_fechamento foreign key (seq_fechamento) references tab_fechamento_caixa_pdv (seq_fechamento);
+
+
+alter table tab_sangria add constraint fk_sangria_fechaCx foreign key (seq_fechamento) references tab_fechamento_caixa_pdv (seq_fechamento);
+
+CREATE SEQUENCE seq_venda;
+ALTER SEQUENCE seq_venda MINVALUE 0 ;
+ALTER SEQUENCE seq_venda RESTART WITH 0;
+
+create table tab_movimento_estoque (
+    seq_movimento             integer not null,
+    cod_empresa               integer not null,
+    cod_item                  integer not null,   
+    cod_almoxarifado          integer not null,
+    dta_movimento             date not null,
+    cod_tipo_movimento        integer not null,
+    qtd_movimento_estoque     double precision not null,
+    val_movimento_estoque     double precision not null,
+    seq_resumo_venda                 integer,
+    primary key (seq_movimento));
+
+alter table tab_movimento_estoque add constraint fk_item_a foreign key (cod_item) references tab_item (cod_item);
+alter table tab_movimento_estoque add constraint fk_tipo_movimento foreign key (cod_tipo_movimento) references tab_tipo_movimento (cod_tipo_movimento);
+alter table tab_movimento_estoque add constraint fk_almoxarifado foreign key (cod_almoxarifado) references tab_almoxarifado (cod_almoxarifado);
+
+create index idx_movto_estoque_dta on tab_movimento_estoque (dta_movimento);
+create index idx_movto_estoque_item on tab_movimento_estoque (cod_item);
+create index idx_movto_estoque_almoxarifado on tab_movimento_estoque (cod_almoxarifado);
+create index idx_movto_estoque_empresa on tab_movimento_estoque (cod_empresa);
+
+alter table tab_movimento_estoque add seq_fechamento integer;
+
+alter table tab_movimento_estoque add seq_inventario integer;
+
+alter table tab_pagamento_nfs add qtd_parcela integer;
+alter table tab_pagamento_nfs add dta_vencimento date;
+alter table tab_pagamento_nfs add cod_pessoa integer;
+
+create table tab_duplicata_receber (
+    seq_duplicata              integer not null,
+    seq_fechamento             integer not null,
+    cod_pessoa                 integer not null,
+	cod_forma_pagto            integer,
+    num_parcela                integer not null,
+    dta_duplicata              date not null,    
+    dta_vencimento             date not null,
+    val_duplicata              double precision not null,
+    ind_tipo                   char(2) not null,
+    seq_titulo_receber         integer,
+    seq_nota                   integer,
+    seq_pagamento              integer,
+	primary key (seq_duplicata));
+
+
+alter table tab_duplicata_receber add constraint chk_val_duplicata check (val_duplicata >= 0);
+alter table tab_duplicata_receber add constraint chk_ind_tipo check (ind_tipo in('NF', 'CC', 'MA'));
+
+
+alter table tab_duplicata_receber add constraint fk_pessoa_duplicata foreign key (cod_pessoa) references tab_pessoa (cod_pessoa);
+alter table tab_duplicata_receber add constraint fk_seq_fechamento_cx foreign key (seq_fechamento) references tab_fechamento_caixa_pdv (seq_fechamento);
+alter table tab_duplicata_receber add constraint fk_forma_pag foreign key (cod_forma_pagto) references tab_forma_pagto_pdv (cod_forma_pagto);
+
+
+create index idx_dta_duplicata on tab_duplicata_receber (dta_duplicata);
+create index idx_seq_titulo on tab_duplicata_receber (seq_titulo_receber);
+
+
+
+create table tab_tipo_cobranca (
+    cod_tipo_cobranca  integer not null,
+    des_tipo_cobranca  varchar(60) not null,
+    ind_status         char(1) not null,
+	primary key (cod_tipo_cobranca));
+
+insert into tab_tipo_cobranca values (1,'CARTEIRA','S');
+insert into tab_tipo_cobranca values (2,'BOLETO BANCARIO','S');
+
+
+create table tab_titulo_receber (
+    seq_titulo                   integer not null,
+    cod_empresa                  integer not null,
+    num_titulo                   varchar(20) not null,
+    cod_pessoa_sacado            integer not null,   
+    dta_emissao                  date not null,
+    dta_vencimento               date not null,
+	dta_liquidacao               date,
+    cod_tipo_cobranca            integer not null,
+    val_original                 double precision not null,
+    val_juros_original           double precision not null,
+    val_liquidado                double precision default 0 not null,
+    des_observacao               varchar(255),
+    ind_tipo_titulo              char(2) not null,
+    ind_status                   char(1) not null,    
+    ind_fatura   	                char(1) not null,
+    cod_pdv                      integer,
+    seq_fechamento               integer,
+    qtd_parcelas                 integer default 0,
+    num_parcela                  integer,
+    seq_titulo_pai               integer,
+	seq_titulo_filho             integer,
+	seq_titulo_negociado         integer,
+    seq_titulo_fatura            integer,
+	dta_negociacao               date,
+	val_negociado                double precision default 0 not null,
+    seq_nota                     integer,
+	seq_receita                  integer,
+	primary key (seq_titulo));
+
+-- drop table tab_titulo_receber
+/* check constraints definition */
+
+alter table tab_titulo_receber add constraint chk_val_original check (val_original >= 0);
+alter table tab_titulo_receber add constraint chk_val_juros_original check (val_juros_original >= 0);
+alter table tab_titulo_receber add constraint chk_val_liquido check (val_liquidado >= 0);
+alter table tab_titulo_receber add constraint chk_ind_fatura check (ind_fatura in ('S','N'));
+alter table tab_titulo_receber add constraint chk_status_titulo check (ind_status in('A','L','F','N','P'));
+alter table tab_titulo_receber add constraint chk_val_negociado check ( val_negociado >= 0 );
+alter table tab_titulo_receber add constraint chk_tipo_titulo check (ind_tipo_titulo in('NF', 'RE', 'MA', 'CC', 'AF'));
+alter table tab_titulo_receber add constraint chk_dta_liquidacao check ((dta_liquidacao >= dta_emissao));
+
+
+alter table tab_titulo_receber add constraint fk_pessoa_sacado foreign key (cod_pessoa_sacado) references tab_pessoa (cod_pessoa);
+alter table tab_titulo_receber add constraint fk_fechamento_caixa foreign key (seq_fechamento) references tab_fechamento_caixa_pdv (seq_fechamento);
+alter table tab_titulo_receber add constraint fk_tipo_cobranca foreign key (cod_tipo_cobranca) references tab_tipo_cobranca (cod_tipo_cobranca);
+alter table tab_titulo_receber add constraint fk_seq_titulo_negociado foreign key (seq_titulo_negociado) references tab_titulo_receber (seq_titulo);
+alter table tab_titulo_receber add constraint fk_cod_pdv foreign key (cod_pdv) references tab_pdv (cod_pdv);
+alter table tab_titulo_receber add constraint fk_cod_receita foreign key (seq_receita) references tab_receita (seq_receita);
+alter table tab_titulo_receber add constraint fk_titulo_receber_fechamento foreign key (seq_fechamento) references tab_fechamento_caixa_pdv (seq_fechamento);
+
+
+create index idx_dta_emissao_tit_receber on tab_titulo_receber (dta_emissao);
+create index idx_num_titulo  on tab_titulo_receber (num_titulo);
+create index idx_tipo on tab_titulo_receber (ind_tipo_titulo);
+create index idx_dta_vencimento on tab_titulo_receber (dta_vencimento);
+create index idx_seq_fechamento on tab_titulo_receber (seq_fechamento);
+create index idx_seq_fatura on tab_titulo_receber (seq_titulo_fatura);
+create index idx_titulo_filho on tab_titulo_receber (seq_titulo_filho);
+create index idx_status_tit_receber on tab_titulo_receber (ind_status);
+create index idx_empresa on tab_titulo_receber (cod_empresa);
+create index idx_dta_liquidacao on tab_titulo_receber (dta_liquidacao);
+create index idx_dta_negociacao on tab_titulo_receber (dta_negociacao);
+create index idx_seq_titulo_pai on tab_titulo_receber (seq_titulo_pai);
+
+insert into tab_tela_acesso values (1506,'Tipo Cobranca','N');
+insert into tab_tela_acesso values (15060,'Tipo Cobranca acesso','N');
+insert into tab_tela_acesso values (15061,'Tipo Cobranca incluir','N');
+insert into tab_tela_acesso values (15062,'Tipo Cobranca excluir','N');
+
+
