@@ -104,3 +104,6 @@ C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Sy
 C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Npgsql.xml
 C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\obj\Debug\EventoSystem.vbprojAssemblyReference.cache
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gugu\Desktop\VSystem\Projeto1\trunk\FrmEvento\EventoSystem\bin\Debug\System.Buffers.dll
